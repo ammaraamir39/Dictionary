@@ -1,0 +1,3 @@
+﻿  Dictionary.cpp
+d:\project datastructures\dictionary\dictionary\dictionary.cpp(41): warning C4715: 'hashing': not all control paths return a value
+  Dictionary.vcxproj -> D:\Project Datastructures\Dictionary\Debug\Dictionary.exe
